@@ -1,2 +1,5 @@
-# global-krigger-paleodust
-Summer internship report on applying Global-Krigger to Paleo±Dust for global dust-flux reconstruction and uncertainty analysis.
+## Reporte final
+
+El reporte completo de la metodología se encuentra disponible aquí:
+
+[Leer el reporte final en PDF](docs/Varela_Molina_Reporte_Final.pdf)
